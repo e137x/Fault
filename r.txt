@@ -1,0 +1,7 @@
+jishaku
+discord
+wavelink
+asyncio
+pymongo
+aiosqlite
+quickchart-io
